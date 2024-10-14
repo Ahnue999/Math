@@ -15,5 +15,7 @@ The inverse function for $f$, written $f^{-1}(x)$, undoes what $f$ does.
 5. For any invertible function $f$, the _domain_ of $f^{-1}(x)$ is the _range_ of $f(x)$ and the _range_ of $f^{-1}(x)$ is the _domain_ of $f(x)$.
 
 ## Notes
-
 - $f^{-1}(x)$ means the inverse for $f(x)$. Note that $f^{-1}(x) \neq \frac{1}{f(x)}$
+
+## Sources
+- [Precalculus Course by FreeCodeCamp (1:00:19 - 1:14:34)](https://www.youtube.com/watch?v=eI4an8aSsgw&pp=ygULcHJlY2FsY3VsdXM%3D)
