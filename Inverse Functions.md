@@ -10,9 +10,9 @@ The inverse function for $f$, written $f^{-1}(x)$, undoes what $f$ does.
 
 1. Inverse functions reverse the roles of $y$ and $x$.
 2. The graph of $y = f^{-1}(x)$ is obtained from the graph of $y = f(x)$ by reflecting over the line $x = y$.
-3. $f^{-1} o f(x) = x$ and $f o f^{-1}(x) = x$. This is the mathematical way of saying that $f$ and $f^{-1}$ undo each other.
+3. $f^{-1} \omicron f(x) = x$ and $f \omicron f^{-1}(x) = x$. This is the mathematical way of saying that $f$ and $f^{-1}$ undo each other.
 4. A function $f$ has an inverse function if and only if the graph of $f$ satisfies the horizontal line test.
-5. For any invertible function $f$, the _domain_ of $f^{-1}(x)$ is the _range_ of $f(x)$ and the _range_ of $f^{-1}(x)$ is the _domain_ of $f(x)$.
+5. For any invertible function $f$, the *domain* of $f^{-1}(x)$ is the *range* of $f(x)$ and the *range* of $f^{-1}(x)$ is the *domain* of $f(x)$.
 
 ## Notes
 - $f^{-1}(x)$ means the inverse for $f(x)$. Note that $f^{-1}(x) \neq \frac{1}{f(x)}$
